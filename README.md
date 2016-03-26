@@ -1,2 +1,2 @@
 # roman-sk.github.io
-PErsonal Website
+Personal Website
